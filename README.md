@@ -13,6 +13,7 @@ Compared performance against classical ML baselines (TF-IDF + Logistic Regressio
 
 Conducted EDA and error analysis, highlighting challenges with neutral-class detection.
 
+Link to Colab: https://colab.research.google.com/drive/1XXf4zlqhPbyDGIFeNAOFd_7VZlWrlK0g#scrollTo=qEbffZTZugSY
 Tech Stack:
 
 Python, PyTorch, Jupyter Notebook
